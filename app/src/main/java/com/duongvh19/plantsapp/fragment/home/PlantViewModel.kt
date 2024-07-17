@@ -1,4 +1,4 @@
-package com.duongvh19.plantsapp
+package com.duongvh19.plantsapp.fragment.home
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
